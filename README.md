@@ -43,6 +43,7 @@ $ cat ~/mount/hello.txt
 Hello world!
 ```
 
+
 ## functions
 
 - [x] Create/Read/Delete directories
